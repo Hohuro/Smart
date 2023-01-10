@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Logo">Weather in Your City</string>
+    <string name="Field">Enter City</string>
+    <string name="btn">Show</string>
+    <string name="nothing">Enter the name of the city</string>
+</resources>
